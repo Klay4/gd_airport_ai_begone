@@ -1,7 +1,7 @@
 # gd_airport_ai_begone
 Disables certain scenarios and also removes certain cargens from the San Andreas airports and airfield.
 
-# Update
+# Update (K4 Version)
 Removed from spawn all the bugged trucks with onesync.
 
 I used this method because the FiveM native isnt working ("Confirmed to work? Needs to be looped? Can not get it to work.): https://runtime.fivem.net/doc/natives/#_0x0FC2D89AC25A5814
